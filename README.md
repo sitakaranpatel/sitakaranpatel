@@ -4,8 +4,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=1895F7&size=25&center=true&vCenter=true&width=600&height=100&lines=Bioinformatics+Professional..&hearts;++;Data+Scientist;Active+Learner++;Problem+Solver"></a>
 </p>
  
-<br>
-
 	
 **About me**
 <br>
@@ -15,7 +13,7 @@
 - I excel in omics data integration, analysis, NGS pipeiline development and predictive modeling.
 - I am eager to contribute to the life sciences industry and make a meaningful impact on human health. Feel free to reach out for collaborations, ideas or just to chat
 
-<br><br>
+<br>
 
 📫 **Contact me via**:
 - [Email](patelsita009@gmail.com)
